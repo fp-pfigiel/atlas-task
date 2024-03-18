@@ -21,7 +21,7 @@ Ensure that the following CLI tools are available on your system:
 
 1. Clone this repository:
    ```bash
-   git clone <TODO>
+   git clone https://github.com/fp-pfigiel/atlas-task.git
    ```
 2. Install the packages:
    ```bash
